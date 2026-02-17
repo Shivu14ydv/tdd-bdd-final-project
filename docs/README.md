@@ -105,7 +105,7 @@ Task 1: Provide the GitHub URL of the tests/factories.py showing the updated cod
 Task 2: Provide GitHub URL of tests/test_models.py showing the code snippet for models test cases
 
 
-> *https://github.com/QuangCuong-Huynh/tdd-bdd-final-project/blob/main/tests/test_models.py*
+> *https://github.com/Shivu14ydv/tdd-bdd-final-project/blob/master/tests/test_models.py*
 
 ```Python
 """
@@ -429,7 +429,7 @@ class TestProductFindByPrice(unittest.TestCase):
 Task 3: Provide GitHub URL of tests/test_routes.py showing the code snippet for route test cases
 
 
-> *https://github.com/QuangCuong-Huynh/tdd-bdd-final-project/blob/main/tests/test_routes.py*
+> *https://github.com/Shivu14ydv/tdd-bdd-final-project/blob/master/tests/test_routes.py*
 
 ```Python
 ######################################################################
@@ -692,7 +692,7 @@ Task 4: Provide GitHub URL of service/routes.py showing the code snippet for /ro
 
 
 
-> *https://github.com/QuangCuong-Huynh/tdd-bdd-final-project/blob/main/service/routes.py*
+> *https://github.com/Shivu14ydv/tdd-bdd-final-project/blob/master/service/routes.py*
 
 ```Python
 ######################################################################
@@ -895,7 +895,7 @@ def delete_products(product_id):
 ---
 Task 5: Provide GitHub URL of features/steps/load_steps.py showing the code snippet for loading the background data (products)
 
-> *https://github.com/QuangCuong-Huynh/tdd-bdd-final-project/blob/main/features/steps/load_steps.py*
+> *https://github.com/Shivu14ydv/tdd-bdd-final-project/blob/master/features/steps/load_steps.py*
 
 ```Python
 
@@ -962,7 +962,7 @@ def step_impl(context):
 ---
 Task 6: Provide GitHub URL of features/products.feature showing the BDD Scenario for a Product 
 
->*https://github.com/QuangCuong-Huynh/tdd-bdd-final-project/blob/main/features/products.feature*
+>*https://github.com/Shivu14ydv/tdd-bdd-final-project/blob/master/features/products.feature*
 
 ```Python
 Feature: The product store service back-end
@@ -1108,7 +1108,7 @@ Scenario: Search by name
 ---
 Task 7: Provide GitHub URL of features/steps/web_steps.py showing the Step Definition for the Button Click
 
->*https://github.com/QuangCuong-Huynh/tdd-bdd-final-project/blob/main/features/steps/web_steps.py*
+>*https://github.com/Shivu14ydv/tdd-bdd-final-project/blob/master/features/steps/web_steps.py*
 
 ```Python
 # pylint: disable=function-redefined, missing-function-docstring
