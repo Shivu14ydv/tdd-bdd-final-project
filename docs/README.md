@@ -49,7 +49,7 @@
 Task 1: Provide the GitHub URL of the tests/factories.py showing the updated code for fake products
 
 
-> *https://github.com/QuangCuong-Huynh/tdd-bdd-final-project/blob/main/tests/factories.py*
+> *https://github.com/Shivu14ydv/tdd-bdd-final-project/blob/main/tests/factories.py*
 
 ```Python
   
